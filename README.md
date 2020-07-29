@@ -106,6 +106,12 @@ More info:
 
 Boilerplate code from [Jungle template](https://github.com/junglejs/template). Repo icon/logo by [Freepik](http://www.freepik.com) from [Flaticon](https://www.flaticon.com).
 
+[![Svelte Todo](https://github-readme-stats.vercel.app/api/pin?username=ekafyi&repo=junglejs-storybook-tailwind&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=111C1F)](https://github.com/ekafyi/junglejs-storybook-tailwind)
+
 ---
 
-(c) 2020 Eka MIT License
+© 2020 [Eka](https://github.com/ekafyi) [MIT License](https://github.com/ekafyi/junglejs-storybook-tailwind/blob/master/LICENSE)
+
+<p align="right">
+    <b><a href="#">↥ back to top</a></b>
+</p>
